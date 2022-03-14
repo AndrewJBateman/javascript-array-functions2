@@ -3,10 +3,10 @@
 * Wes Bos Youtube Tutorial: [.some(), .every(), .find() and [...SPREADS] — Array Cardio Day 2 - #JavaScript30 7/30](https://www.youtube.com/watch?v=QNmRfyNg1lw&list=PLu8EoSxDXHP6CGK4YVJhL_VWetA865GOH&index=7).
 * **Note:** to open web links in a new window use: _ctrl+click on link_
 
-![GitHub repo size](https://img.shields.io/github/repo-size/AndrewJBateman/javascript-array-practise2?style=plastic)
-![GitHub pull requests](https://img.shields.io/github/issues-pr/AndrewJBateman/javascript-array-practise2?style=plastic)
-![GitHub Repo stars](https://img.shields.io/github/stars/AndrewJBateman/javascript-array-practise2?style=plastic)
-![GitHub last commit](https://img.shields.io/github/last-commit/AndrewJBateman/javascript-array-practise2?style=plastic)
+![GitHub repo size](https://img.shields.io/github/repo-size/AndrewJBateman/javascript-array-functions2?style=plastic)
+![GitHub pull requests](https://img.shields.io/github/issues-pr/AndrewJBateman/javascript-array-functions2?style=plastic)
+![GitHub Repo stars](https://img.shields.io/github/stars/AndrewJBateman/javascript-array-functions2?style=plastic)
+![GitHub last commit](https://img.shields.io/github/last-commit/AndrewJBateman/javascript-array-functions2?style=plastic)
 
 * [:zap: Javascript Array Practise 2/2](#zap-javascript-array-practise-22)
   * [:books: General info](#books-general-info)
